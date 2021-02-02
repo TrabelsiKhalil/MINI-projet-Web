@@ -1,10 +1,10 @@
 # Mini Project Web
 > Gestion de collection de jeux vidéo
 
-### Content
+### Contenu
 
 - [Mini Project Web](#mini-project-web)
-    - [Content](#content)
+    - [Contenu](#contenu)
   - [Description](#description)
   - [Workflow](#workflow)
       - [Technologie](#technologie)
