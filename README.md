@@ -24,7 +24,7 @@ ce projet est une mini application Web qui vous permet de sauvegarder vos collec
 ## Workflow
 - [ ] Conception
   - [x] ~~[Conception fonctionnel de l'application](https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/spec/README.md "Lien vers les diagrammes")~~
-  - [x] ~~[Squelette du site](https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/UI/README.md "Lien vers le squelette du site")~~
+  - [x] ~~[Squelette du site](https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/UI/Readme.md "Lien vers le squelette du site")~~
 
 #### Technologie
 - Conception
