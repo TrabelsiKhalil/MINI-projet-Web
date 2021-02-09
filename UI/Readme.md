@@ -17,7 +17,7 @@ un premier lieu à l’identification des acteurs et dans un deuxièmes lieu à 
 exigences de chaque acteur. Dans cette plateforme, il ya un seul acteur :  
  - **administrateur**   
 
-[Retour au sommet](#squelette-du-site)
+[Retour au sommet](#Identification-des-acteurs)
 
 ---
 
@@ -39,7 +39,7 @@ L’application offre a les clients les fonctionnalites suivantes :<br>
 * Supprimer un jeu<br>
    effacer un jeu choisit de la base de données (voir Figure [2](#fig2))
    
-[Retour au sommet](#squelette-du-site)
+[Retour au sommet](#Identification-des-acteurs)
 
 ---
    
@@ -72,16 +72,17 @@ Facilité d’adaptation.
 Facilité à l’installation.  
 Interchangeabilité.  
 
+   
+[Retour au sommet](#Identification-des-acteurs)
+
+---
+
 ## Modélisation des besoins fonctionnels
 Après la présentation des besoins fonctionnels, nous passons a la modélisation de ces
 besoins par la définition des cas d’utilisation.
 ### Identification des cas d’utilisation
 Dans cette section, nous présentons le diagramme de cas d’utilisation  (cf. Figure [1](#fig1))
 qui permet d’illustrer les fonctionnalites système  vis-à-vis aux acteurs présentés.
-
-[Retour au sommet](#squelette-du-site)
-
----
 
 
 <img id="fig1" src="https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/spec/Diagramme%20de%20Cas%20d'Utilisation.png"
@@ -108,7 +109,7 @@ L’administrateur est cens ́e de réaliser les tâches suivantes :
 * Supprimer un jeu<br>  
 
 
-[Retour au sommet](#squelette-du-site)
+[Retour au sommet](#Identification-des-acteurs)
 
 ---
 
@@ -134,6 +135,6 @@ Figure 2 - diagramme de séquence
 </p>
 <br></br>
 
-[Retour au sommet](#squelette-du-site)
+[Retour au sommet](#Identification-des-acteurs)
 
 ---
