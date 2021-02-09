@@ -70,7 +70,7 @@ En cliquant sur le bouton "ajouter" / "+" un modal "Ajouter" apparaît.
 
 ---
 #### demo
-![Page ajouter](ajouter.gif)
+![Page ajouter](Ajouter.gif)
 
 
 [Retour au sommet](#squelette-du-site)
@@ -163,7 +163,7 @@ On a le meme [barre de navigation](#Page-Accueil).
 
 ---
 #### demo
-![Page Info](Page_info.gif)
+![Page Info](page_info.gif)
 
 [Retour au sommet](#squelette-du-site)
 
