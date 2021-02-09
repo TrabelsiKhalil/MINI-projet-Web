@@ -101,10 +101,10 @@ Dans cette section, nous allons présenter les diagrammes de séquence les plus 
 plusieurs éléments qui interagissent par l’envoi de messages. Il permet de décrire le dynamisme d’un système et de faire le lien entre le diagramme de cas d’utilisation et le diagramme de classe.
 
 **La figure [2](#fig2) représente le diagramme de séquence des cas d'utilisation :**  
-* ajouter
-* consulter
-* modifier
-* supprimer
+* ajouter jeu
+* consulter jeu
+* modifier jeu
+* supprimer jeu
 
 
  
