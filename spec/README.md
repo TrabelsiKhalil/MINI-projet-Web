@@ -108,7 +108,7 @@ plusieurs éléments qui interagissent par l’envoi de messages. Il permet de d
 
 
  
- <img id="fig2" src="https://github.com/Rzgi/GameHub/blob/main/spec/Diagram%20de%20s%C3%A9quence%20.png"
+ <img id="fig2" src="https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/spec/Diagram%20de%20s%C3%A9quence%20.jpeg"
      alt="diagramme de séquence"
      style="float: left; margin-right: 10px;" />
      
