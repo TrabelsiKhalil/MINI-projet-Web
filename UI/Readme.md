@@ -1,143 +1,138 @@
-# **Squelette du site**
-> wireframe des différent pages
+# Projet : Gestion de collection de jeux vidéo
+## Aller à la section
+* [Identification des acteurs](#Identification-des-acteurs)
+* 
+* [Specification des besoins](#Specification-des-besoins)  
+  * [Les besoins fonctionnels](#A---Les-besoins-fonctionnels)
+  * [Les besoins non fonctionnels](#B---Les-besoins-non-fonctionnels)
+* [Modélisation des besoins fonctionnels](#Modélisation-des-besoins-fonctionnels)
+  * [diagramme de cas d’utilisation](#fig1)
+* [Modélisation dynamique](#Modélisation-dynamique)
+  * [Diagram de séquence ](#fig2)
 
-### **Contenu**
-- [**Squelette du site**](#squelette-du-site)
-    - [**Contenu**](#contenu)
-  - [**Description**](#description)
-      - [Technologie](#technologie)
-  - [**Les interfaces**](#les-interfaces)
-    - [**Page Accueil**](#page-accueil)
-    - [**Modal Ajout**](#modal-ajout)
-    - [**Modal Consulter**](#modal-consulter)
-    - [**Modal Modifier**](#modal-modifier)
-    - [**Page Info**](#page-info)
-  
 
----
-## **Description**
-
-Un wireframe est une illustration en deux dimensions de l'interface d'une page qui se concentre spécifiquement sur l'allocation d'espace et la priorisation du contenu, des fonctionnalités disponibles et des comportements prévus. Pour ces raisons, les wireframes n'incluent généralement aucun style, couleur ou graphique.
-
-#### Technologie
-- Balsamiq
-
-[Retour au sommet](#squelette-du-site)
-
----
-##  **Les interfaces**
-
-### **Page Accueil**
-
-On a une simple page Avec :
-- barre de navigation
-  - un logo
-  - barre de recherche
-  - Button Ajouter
-- Corps 
-  - une grille de cartes
-
-> en appuyant sur une carte on peut accéder à sa page info  
-
-![Page Accueil](Accueil.png)
+## Identification des acteurs:
+Afin d’étudier les interactions du systéme avec le monde extérieur, nous procédons dans  
+un premier lieu à l’identification des acteurs et dans un deuxièmes lieu à la modélisation des  
+exigences de chaque acteur. Dans cette plateforme, il ya un seul acteur :  
+ - **administrateur**   
 
 [Retour au sommet](#squelette-du-site)
 
 ---
 
-### **Modal Ajout**
+## Specification des besoins :
 
-On a le meme [barre de navigation](#Page-Accueil).  
-En cliquant sur le bouton "ajouter" / "+" un modal "Ajouter" apparaît.  
-- modal Ajouter jeu
-  - Form
-    - input Nom de jeux
-    - Select status
-    - input Progres
-    - Button Ajouter
-    - Button Annuler
+Dans cette section, nous procedons a une etape de specification des besoins fonctionnels de notre systeme.  
+Ces besoins seront modelises a travers une etude detaillee de ses fonctionnalites.   
+En fait, les besoins fonctionnels servent a mieux comprendre le role de systeme en question ainsi que ses fonctionnalites essentielles.   
+En effet, **notre systeme devra repondre aux besoins fonctionnels suivants :**
 
-
-![Page Accueil](Modal%20Ajout.png)
-
+### A - LES BESOINS FONCTIONNELS:
+L’application offre a les clients les fonctionnalites suivantes :<br> 
+* Ajouter un jeu <br>
+   saisir les données nécessaires pour ajouter un jeu aux collections (voir Figure [2](#fig2))
+* Consulter un jeu<br>
+   Afficher les données un jeu choisit à partir la base de données si elle existe (voir Figure [2](#fig2))
+* Modifier un jeu<br>
+   mettre à jour les données d'un jeu choisit (voir Figure [2](#fig2))
+* Supprimer un jeu<br>
+   effacer un jeu choisit de la base de données (voir Figure [2](#fig2))
+   
 [Retour au sommet](#squelette-du-site)
 
 ---
+   
+### B - Les besoins non fonctionnels :
+Il s'agit des besoins qui caractérisent le système. Ce sont des besoins en matière de performance, de type de matériel ou le type de conception. 
+L'application devra être capable de :
 
+- **La fiabilité :**  
+ Maturité  
+ Tolérance aux fautes  
+ Possibilité de récupération  
+ 
+- **La facilité d'utilisation (utilisabilité):**  
+ Facilité de compréhension.  
+ Facilité d’apprentissage.  
+ Facilité d’exploitation/d’utilisation.  
+ Attractivité.  
+ 
+- **Le rendement et l'efficacité:**  
+ Comportement vis-à-vis du temps.  
+ Comportement vis-à-vis des ressources.  
+- **La maintenabilité:**  
+ Facilité d’analyse.  
+Facilité de modification.  
+Stabilité.  
+Testabilité.  
 
-### **Modal Consulter**
-> On peut aussi supprimer un jeu ici  
+- **La portabilité:**  
+Facilité d’adaptation.  
+Facilité à l’installation.  
+Interchangeabilité.  
 
-On a le meme [barre de navigation](#Page-Accueil).  
-Après avoir tapé le nom d'un jeu donné dans la barre de recherche puis appuyée sur entrée un modal "Consulter" apparaît.  
-- modal Consulter jeu
-  - Nom de jeux
-  - status
-  - Progres
-  - Button Modifier
-  - Button Supprimer
-  - Button Annuler
-
-
-
-
-![Modal Consulter](Modal%20Consulter.png)
+## Modélisation des besoins fonctionnels
+Après la présentation des besoins fonctionnels, nous passons a la modélisation de ces
+besoins par la définition des cas d’utilisation.
+### Identification des cas d’utilisation
+Dans cette section, nous présentons le diagramme de cas d’utilisation  (cf. Figure [1](#fig1))
+qui permet d’illustrer les fonctionnalites système  vis-à-vis aux acteurs présentés.
 
 [Retour au sommet](#squelette-du-site)
 
 ---
 
 
-### **Modal Modifier**
+<img id="fig1" src="https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/spec/Diagramme%20de%20Cas%20d'Utilisation.png"
+     alt="diagramme de cas d’utilisation"
+     style="float: left; margin-right: 10px;" />
+     
+<p align="center">
+Figure 1 - diagramme de cas d’utilisation 
+</p>
+<br></br>
 
-On a le meme [barre de navigation](#Page-Accueil).  
-après avoir appuyé sur le bouton Modifier ([Voir Page Consulter](#Modal-Consulter))  
-un modal "Consulter" apparaît.  
-
-- modal Modifier jeu
-  - Form
-    - input Nom de jeux
-    - Select status
-    - input Progres
-    - Button Modifier
-    - Button Annuler
+Les fonctionnalités du système sont représentées par le diagramme de cas d’utilisation illustrée dans la figure [1](#fig1).  
+Ce diagramme met en valeur la répartition des fonctionnalités entre les différents acteurs.  
+Dans ce diagramme, il y a un seul acteur :  
+&nbsp;&nbsp;&nbsp;&nbsp;**administrateur**
 
 
-![Modal Modifier](Modal%20Modifier.png)
+
+L’administrateur est cens ́e de réaliser les tâches suivantes :
+
+* Ajouter un jeu aux collections<br>
+* Consulter un jeu<br>
+* Modifier un jeu<br>
+* Supprimer un jeu<br>  
+
 
 [Retour au sommet](#squelette-du-site)
 
 ---
 
-### **Page Info**
+## Modélisation dynamique
+### Diagrammes de séquences
+Dans cette section, nous allons présenter les diagrammes de séquence les plus importants dans notre système. Le diagramme de séquence représente une interaction entre
+plusieurs éléments qui interagissent par l’envoi de messages. Il permet de décrire le dynamisme d’un système et de faire le lien entre le diagramme de cas d’utilisation et le diagramme de classe.
 
-On a le meme [barre de navigation](#Page-Accueil).  
-
-
-- Corps
-  - Section "Page Top"
-    - Une image Grand taille
-    - Nom de jeu
-    - Date de sortie
-  - Section "Info"
-    - partie 1
-      - Une affiche de jeu
-      - Genre
-      - Plateformes
-      - Description
-    - partie 2
-      - Évaluations
-      - Diagramme circulaire
-      - évaluation des critiques
-      - évaluation des membres
-  - Section "ArtWork"
-    - captures d'écran / Bande-annonce
-  - Section "Autre"
-    - scénario
-    - les lien utils
+**La figure [2](#fig2) représente le diagramme de séquence des cas d'utilisation :**  
+* ajouter jeu
+* consulter jeu
+* modifier jeu
+* supprimer jeu
 
 
-![Page Info](Page%20info.png)
+ 
+ <img id="fig2" src="https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/spec/Diagram%20de%20s%C3%A9quence.png"
+     alt="diagramme de séquence"
+     style="float: left; margin-right: 10px;" />
+     
+<p align="center" >
+Figure 2 - diagramme de séquence
+</p>
+<br></br>
 
 [Retour au sommet](#squelette-du-site)
 
