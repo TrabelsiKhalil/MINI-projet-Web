@@ -28,7 +28,7 @@ L’application offre a les clients les fonctionnalites suivantes :<br>
 * Ajouter un jeu <br>
    saisir les données nécessaires pour ajouter un jeu aux collections (voir Figure [2](#fig2))
 * Consulter un jeu<br>
-   récupérer un jeu choisit à partir la base de données si elle existe (voir Figure [2](#fig2))
+   Afficher les données un jeu choisit à partir la base de données si elle existe (voir Figure [2](#fig2))
 * Modifier un jeu<br>
    mettre à jour les données d'un jeu choisit (voir Figure [2](#fig2))
 * Supprimer un jeu<br>
