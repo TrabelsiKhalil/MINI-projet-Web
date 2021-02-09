@@ -1,5 +1,6 @@
 # **Squelette du site**
 > wireframe des différent pages
+
 ### **Contenu**
 - [**Squelette du site**](#squelette-du-site)
     - [**Contenu**](#contenu)
@@ -8,10 +9,18 @@
   - [**Les interfaces**](#les-interfaces)
     - [**Page Accueil**](#page-accueil)
     - [**Modal Ajout**](#modal-ajout)
+      - [Page](#page)
+      - [demo](#demo)
     - [**Modal Consulter**](#modal-consulter)
+      - [Page](#page-1)
+      - [demo](#demo-1)
     - [**Modal Modifier**](#modal-modifier)
+      - [Page](#page-2)
+      - [demo](#demo-2)
     - [**Page Info**](#page-info)
-
+      - [Page](#page-3)
+      - [demo](#demo-3)
+  
 
 ---
 ## **Description**
@@ -37,6 +46,7 @@ On a une simple page Avec :
   - une grille de cartes
 
 > en appuyant sur une carte on peut accéder à sa page info  
+
 ![Page Accueil](Accueil.png)
 
 [Retour au sommet](#squelette-du-site)
@@ -55,8 +65,13 @@ En cliquant sur le bouton "ajouter" / "+" un modal "Ajouter" apparaît.
     - Button Ajouter
     - Button Annuler
 
+#### Page
+![Page ajouter](Modal%20Ajout.png)  
 
-![Page Accueil](Modal%20Ajout.png)
+---
+#### demo
+![Page ajouter](ajouter.gif)
+
 
 [Retour au sommet](#squelette-du-site)
 
@@ -65,6 +80,7 @@ En cliquant sur le bouton "ajouter" / "+" un modal "Ajouter" apparaît.
 
 ### **Modal Consulter**
 > On peut aussi supprimer un jeu ici  
+
 On a le meme [barre de navigation](#Page-Accueil).  
 Après avoir tapé le nom d'un jeu donné dans la barre de recherche puis appuyée sur entrée un modal "Consulter" apparaît.  
 - modal Consulter jeu
@@ -77,8 +93,12 @@ Après avoir tapé le nom d'un jeu donné dans la barre de recherche puis appuy�
 
 
 
+#### Page
+![Page Info](Modal%20Consulter.png)  
 
-![Modal Consulter](Modal%20Consulter.png)
+---
+#### demo
+![Modal Consulter](Consulter.gif)
 
 [Retour au sommet](#squelette-du-site)
 
@@ -100,7 +120,12 @@ un modal "Consulter" apparaît.
     - Button Annuler
 
 
-![Modal Modifier](Modal%20Modifier.png)
+#### Page
+![Page Modifier](Modal%20Modifier.png)  
+
+---
+#### demo
+![Page Modifier](modifier.gif)
 
 [Retour au sommet](#squelette-du-site)
 
@@ -133,8 +158,12 @@ On a le meme [barre de navigation](#Page-Accueil).
     - scénario
     - les lien utils
 
+#### Page
+![Page Info](Page%20info.png)  
 
-![Page Info](Page%20info.png)
+---
+#### demo
+![Page Info](Page_info.gif)
 
 [Retour au sommet](#squelette-du-site)
 
