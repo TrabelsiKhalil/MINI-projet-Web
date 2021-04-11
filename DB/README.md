@@ -22,4 +22,4 @@ MySQL Workbench est un outil de conception visuelle de base de données qui int�
 ##  **– Modèle entité association**
 ---
 
-![Page Accueil](model.png)
+![model](model.png)
