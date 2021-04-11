@@ -192,7 +192,7 @@ On a le meme [barre de navigation](#Page-Accueil).
 
 #### **Page Accueil**
 ##### Page
-![Page Info](m_Accueil.png)  
+![Page Info](m_Accuel.png)  
 
 
 [Retour au sommet](#squelette-du-site)
