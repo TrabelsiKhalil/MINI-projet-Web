@@ -54,7 +54,8 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 #### **Page Accueil**
 > en appuyant sur une carte on peut accéder à sa page info  
 
-![Page Accueil](Accueil.png)
+![Page Accueil](accueil.png)
+![Page Accueil2](accueil2.png)
 
 [Retour au sommet](#squelette-du-site)
 
@@ -62,7 +63,7 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 
 #### **Modal Ajout**
 ##### Page
-![Page ajouter](Modal%20Ajout.png)  
+![Page ajouter](ajouter.png)  
 
 
 [Retour au sommet](#squelette-du-site)
@@ -72,7 +73,7 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 
 #### **Modal Consulter**
 ##### Page
-![Page Info](Modal%20Consulter.png)  
+![Page Consulter](consulter.png)  
 
 
 [Retour au sommet](#squelette-du-site)
@@ -82,7 +83,7 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 
 #### **Modal Modifier**
 ##### Page
-![Page Modifier](Modal%20Modifier.png)  
+![Page Modifier](modifier.png)  
 
 
 [Retour au sommet](#squelette-du-site)
@@ -92,7 +93,7 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 #### **Page Info**
 
 ##### Page
-![Page Info](Page%20info.png)  
+![Page Info](info.png)  
 
 
 [Retour au sommet](#squelette-du-site)
@@ -111,8 +112,8 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 
 #### **Page Accueil**
 ##### Page
-![Page Info](m_accueil.png)  
-![Page Info](m_accueil1.png)  
+![Page Accueil](m_accueil.png)  
+![Page Accueil1](m_accueil1.png)  
 
 
 [Retour au sommet](#squelette-du-site)
@@ -121,14 +122,14 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 
 #### **Modal ajouter**
 ##### Page
-![Page Info](m_ajout.png)  
+![Page ajouter](m_ajout.png)  
 
 [Retour au sommet](#squelette-du-site)
 
 ---
 #### **Modal consulter**
 ##### Page
-![Page Info](m_consulter.png)  
+![Page consulter](m_consulter.png)  
 
 [Retour au sommet](#squelette-du-site)
 
@@ -136,7 +137,7 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 
 #### **Modal modifier**
 ##### Page
-![Page Info](m_modifier.png)  
+![Page modifier](m_modifier.png)  
 
 [Retour au sommet](#squelette-du-site)
 
@@ -144,7 +145,7 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 
 #### **Modal supprimer**
 ##### Page
-![Page Info](m_supprimer.png)  
+![Page supprimer](m_supprimer.png)  
 
 [Retour au sommet](#squelette-du-site)
 
@@ -160,7 +161,7 @@ Adobe XD est l'outil de prototypage Adobe destiné aux concepteurs d'expérience
 
 #### **demo**
 
-![Page ajouter](m_demo.gif)
+![demo](m_demo.gif)
 
 [Retour au sommet](#squelette-du-site)
 
