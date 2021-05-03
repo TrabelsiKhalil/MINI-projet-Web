@@ -33,6 +33,8 @@ ce projet est une mini application Web qui vous permet de sauvegarder vos collec
   - [x] ~~[Front End](https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/FE/README.md  "Lien vers le code du Font End")~~
   - [x] ~~[Back End](https://github.com/TrabelsiKhalil/MINI-projet-Web/blob/main/BE/README.md  "Lien vers le code du Back End")~~
 
+
+
 #### Technologie
 - Conception
   - UML
@@ -48,6 +50,7 @@ ce projet est une mini application Web qui vous permet de sauvegarder vos collec
     - Html
     - css
     - js
+    - FireBase
   - Back End
     - python
     - Fast API
