@@ -27,7 +27,7 @@
 
 ## Description
 
-ce projet est une mini application Web qui vous permet de sauvegarder vos collections de jeux, de suivre votre progression dans chaque jeu et d'obtenir les informations de base du jeu de votre choix
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
 
 [Retour au sommet](#mini-project-web)
